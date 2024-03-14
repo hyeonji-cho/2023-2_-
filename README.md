@@ -5,4 +5,6 @@
 #### 데이터셋 : FLICKR8k
 
 #### 사용한 모델
-####>1.
+1. ResNet-101 + LSTM
+2. swin transformer + GPT2
+3. InceptionV3 + LSTM
