@@ -8,3 +8,6 @@
 1. ResNet-101 + LSTM
 2. swin transformer + GPT2
 3. InceptionV3 + LSTM
+
+#### 결과 : swin transformer + GPT2 모델의 BLEU score가 가장 좋았다. 토큰화된 이미지를 자연어로 처리하는 디코더 모델의 변천 (Seq2Seq → transformer → GPT)을 생각했을 때, 가장 최신의 모델에서 성능이 좋았음을 알 수 있다.
+
